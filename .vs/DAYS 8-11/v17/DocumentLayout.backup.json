@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DEV\\C#\\Day8-11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F0AA2B-B2C5-4590-B301-15F2985B6A52}|DAYS 8-11\\DAYS 8-11.csproj|d:\\dev\\c#\\day8-11\\days 8-11\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D9F0AA2B-B2C5-4590-B301-15F2985B6A52}|DAYS 8-11\\DAYS 8-11.csproj|solutionrelative:days 8-11\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\DEV\\C#\\Day8-11\\DAYS 8-11\\Form1.cs",
+              "RelativeDocumentMoniker": "DAYS 8-11\\Form1.cs",
+              "ToolTip": "D:\\DEV\\C#\\Day8-11\\DAYS 8-11\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "DAYS 8-11\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T08:38:22.638Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+D:\DEV\C#\Day8-11\DAYS 8-11\bin\Debug\DAYS 8-11.exe.config
+D:\DEV\C#\Day8-11\DAYS 8-11\bin\Debug\DAYS 8-11.exe
+D:\DEV\C#\Day8-11\DAYS 8-11\bin\Debug\DAYS 8-11.pdb
+D:\DEV\C#\Day8-11\DAYS 8-11\obj\Debug\DAYS 8-11.csproj.AssemblyReference.cache
+D:\DEV\C#\Day8-11\DAYS 8-11\obj\Debug\DAYS_8_11.Form1.resources
+D:\DEV\C#\Day8-11\DAYS 8-11\obj\Debug\DAYS_8_11.Form2.resources
+D:\DEV\C#\Day8-11\DAYS 8-11\obj\Debug\DAYS_8_11.Form3.resources
+D:\DEV\C#\Day8-11\DAYS 8-11\obj\Debug\DAYS_8_11.Form4.resources
+D:\DEV\C#\Day8-11\DAYS 8-11\obj\Debug\DAYS_8_11.Properties.Resources.resources
+D:\DEV\C#\Day8-11\DAYS 8-11\obj\Debug\DAYS 8-11.csproj.GenerateResource.cache
+D:\DEV\C#\Day8-11\DAYS 8-11\obj\Debug\DAYS 8-11.csproj.CoreCompileInputs.cache
+D:\DEV\C#\Day8-11\DAYS 8-11\obj\Debug\DAYS 8-11.exe
+D:\DEV\C#\Day8-11\DAYS 8-11\obj\Debug\DAYS 8-11.pdb
+D:\программы\.vs\программы\v17\.vs\Day8-11\DAYS 8-11\bin\Debug\DAYS 8-11.exe.config
+D:\программы\.vs\программы\v17\.vs\Day8-11\DAYS 8-11\bin\Debug\DAYS 8-11.exe
+D:\программы\.vs\программы\v17\.vs\Day8-11\DAYS 8-11\bin\Debug\DAYS 8-11.pdb
+D:\программы\.vs\программы\v17\.vs\Day8-11\DAYS 8-11\obj\Debug\DAYS 8-11.csproj.AssemblyReference.cache
+D:\программы\.vs\программы\v17\.vs\Day8-11\DAYS 8-11\obj\Debug\DAYS_8_11.Form1.resources
+D:\программы\.vs\программы\v17\.vs\Day8-11\DAYS 8-11\obj\Debug\DAYS_8_11.Form2.resources
+D:\программы\.vs\программы\v17\.vs\Day8-11\DAYS 8-11\obj\Debug\DAYS_8_11.Form3.resources
+D:\программы\.vs\программы\v17\.vs\Day8-11\DAYS 8-11\obj\Debug\DAYS_8_11.Form4.resources
+D:\программы\.vs\программы\v17\.vs\Day8-11\DAYS 8-11\obj\Debug\DAYS_8_11.Properties.Resources.resources
+D:\программы\.vs\программы\v17\.vs\Day8-11\DAYS 8-11\obj\Debug\DAYS 8-11.csproj.GenerateResource.cache
+D:\программы\.vs\программы\v17\.vs\Day8-11\DAYS 8-11\obj\Debug\DAYS 8-11.csproj.CoreCompileInputs.cache
+D:\программы\.vs\программы\v17\.vs\Day8-11\DAYS 8-11\obj\Debug\DAYS 8-11.exe
+D:\программы\.vs\программы\v17\.vs\Day8-11\DAYS 8-11\obj\Debug\DAYS 8-11.pdb
